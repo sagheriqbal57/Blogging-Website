@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sagheriqbal57/Blogging-Website/issues"
   },
-  "homepage": "https://github.com/sagheriqbal57/Blogging-Website#readme"
+  "homepage": "https://github.com/sagheriqbal57/Blogging-Website#readme",
+  "devDependencies": {
+    "stylelint": "^16.14.0"
+  }
 }
