@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/sagheriqbal57/Blogging-Website#readme",
   "devDependencies": {
-    "stylelint": "^16.14.0"
+    "stylelint": "^16.14.0",
+    "stylelint-config-standard": "^37.0.0"
   }
 }
