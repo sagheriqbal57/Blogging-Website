@@ -37,7 +37,10 @@ jobs:
       pages: write
 
     needs: build
-
+    
+    environment:
+      name: github-pages
+      
     steps:
     - name: Deploy to GitHub Pages
       uses: actions/deploy-pages@v4
